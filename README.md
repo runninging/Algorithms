@@ -4,4 +4,4 @@ Assignments of courses and demos of some useful algorithms
 - Machine learning in coursera
 
 ## Following Demos are included:
-- 
+- Linear Regression
